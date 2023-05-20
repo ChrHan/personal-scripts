@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# complement of https://chrhan.github.io/2fa/1password/pritunlvpn/openvpn/2023/05/19/1password-integration-with-pritunlvpn-openvpn.html 
 # this is a wrapper function for `op` 1Password binary & `openvpn`!
 # this function will fetch current TOTP & config location based on 1Password
 vpnotp() {
